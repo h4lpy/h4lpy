@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=5000&color=24CC44&random=false&width=435&lines=hello+friend;h3ll0+fr13nd;h3llo+fr1end;hell0+fri3nd" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=2500&color=24CC44&random=false&width=435&lines=hello+friend;h3ll0+fr13nd;h3llo+fr1end;hell0+fri3nd" alt="Typing SVG" /></a>
 
 ## `💡` Projects
 

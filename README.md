@@ -8,7 +8,7 @@ All of my writeups for the abundance of CTF competitions I have entered. I try t
 
 `🧠` [**Cerebrum**](https://github.com/h4lpy)
 
-Inspired by [HackTricks](https://book.hacktricks.xyz/), this is my attempt at cataloging everything I learn for quick and easy CTRL-F-ing. You may be consider "information hoarding"... and you'd be right, but it has come in very useful so far.
+Inspired by [HackTricks](https://book.hacktricks.xyz/) and [Dray Agha/Purp1eW0lf's Blue Team notes](https://github.com/Purp1eW0lf/Blue-Team-Notes/tree/main), this is my attempt at cataloging everything I learn for quick and easy CTRL-F-ing. You may consider to be "information hoarding"... and you'd be right, but it has come in very useful so far.
 
 ## `📝` Blog
 

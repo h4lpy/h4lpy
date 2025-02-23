@@ -16,9 +16,9 @@ Currently I document cool or harder CTF challenges I have come across, but I wou
 
 ## `⭐` Certifications
 
-- GIAC Certified Forensic Analyst (GCFA) ~ December 2024
-- eLearnSecurity Certified Professional Penetration Tester (eCPPTv2) ~ December 2022
-- eLearnSecurity Junior Penetration Tester (eJPT) ~ July 2021
+- **GIAC Certified Forensic Analyst (GCFA)** ~ December 2024
+- **eLearnSecurity Certified Professional Penetration Tester (eCPPTv2)** ~ December 2022
+- **eLearnSecurity Junior Penetration Tester (eJPT)** ~ July 2021
 
 ## `👨‍💻` What I use
 

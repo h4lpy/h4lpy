@@ -2,7 +2,7 @@
 
 ## `💡` Projects
 
-`🚩` [**Capture The Flag Writeups**](https://github.com/h4lpy)
+`🚩` [**Capture The Flag Writeups**](https://github.com/h4lpy/capture-the-flag-writeups)
 
 All of my writeups for the abundance of CTF competitions I have entered. I try to keep this as up-to-date as possible, but sometimes there is a lot to go through :/
 

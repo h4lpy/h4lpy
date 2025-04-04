@@ -16,7 +16,6 @@ Currently I document cool or harder CTF challenges I have come across, but I wou
 
 ## `⭐` Certifications
 
-- **Blue Team Level 1 (BTL1)** ~ March 2025
 - **GIAC Certified Forensic Analyst (GCFA)** ~ December 2024
 - **eLearnSecurity Certified Professional Penetration Tester (eCPPTv2)** ~ May 2023
 - **eLearnSecurity Junior Penetration Tester (eJPT)** ~ July 2021
